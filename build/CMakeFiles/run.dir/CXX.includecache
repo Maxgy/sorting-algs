@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-.././include/mergesort.h
+/home/maxwell/github/sorting/include/mergesort.h
 vector
 -
 
-.././include/split.h
+/home/maxwell/github/sorting/include/split.h
 string
 -
 vector
@@ -23,8 +23,8 @@ string
 -
 vector
 -
-include/split.h
-/home/maxwell/github/sorting/src/include/split.h
-include/mergesort.h
-/home/maxwell/github/sorting/src/include/mergesort.h
+../include/split.h
+/home/maxwell/github/sorting/include/split.h
+../include/mergesort.h
+/home/maxwell/github/sorting/include/mergesort.h
 

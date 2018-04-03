@@ -6,5 +6,5 @@ CXX_FLAGS = -O3   -std=gnu++1z
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/maxwell/github/sorting/. 
+CXX_INCLUDES = -I/home/maxwell/github/sorting/include 
 

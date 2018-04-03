@@ -3,8 +3,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "include/split.h"
-#include "include/mergesort.h"
+#include "../include/split.h"
+#include "../include/mergesort.h"
 
 int main() {
   std::string input;
