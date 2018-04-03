@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/mergesort.h
+vector
+-
+
+.././include/split.h
+string
+-
+vector
+-
+
+/home/maxwell/github/sorting/src/main.cc
+iostream
+-
+string
+-
+vector
+-
+include/split.h
+/home/maxwell/github/sorting/src/include/split.h
+include/mergesort.h
+/home/maxwell/github/sorting/src/include/mergesort.h
+

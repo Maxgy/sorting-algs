@@ -1,0 +1,3 @@
+/home/maxwell/github/sorting/build/CMakeFiles/rebuild_cache.dir
+/home/maxwell/github/sorting/build/CMakeFiles/run.dir
+/home/maxwell/github/sorting/build/CMakeFiles/edit_cache.dir
